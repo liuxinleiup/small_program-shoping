@@ -2,7 +2,7 @@
 # small_program-shoping商城微信小程序  
 
 
-<video src="https://www.bilibili.com/video/BV1yL411A74E/" controls="controls" width="500" height="300">您的浏览器不支持播放该视频！</video>    
+![Alt Text](https://www.bilibili.com/video/BV1yL411A74E/)     
           
 
 一：参考地址  
