@@ -2,7 +2,13 @@
 # small_program-shoping商城微信小程序  
 
 
-![Alt mp4](https://www.bilibili.com/video/BV1yL411A74E/.mp4)     
+<iframe 
+    height=450 
+    width=800 
+    src="http://player.youku.com/embed/XMzMxMjE0MjY4NA==" 
+    frameborder=0 
+    allowfullscreen>
+</iframe> 
           
 
 一：参考地址  
