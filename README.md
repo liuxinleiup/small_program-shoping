@@ -1,10 +1,6 @@
 
 # small_program-shoping商城微信小程序  
 
-<iframe height=498 width=510 src="http://player.youku.com/embed/XNjcyMDU4Njg0">   
-	
-<iframe height=500 width=500 src="http://ww4.sinaimg.cn/mw690/e75a115bgw1f3rrbzv1m8g209v0diqv7.gif">   
-
 一：参考地址  
 1.接口来源：https://www.showdoc.com.cn/128719739414963  
 2.微信工作平台：https://mp.weixin.qq.com/  
