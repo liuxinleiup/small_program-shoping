@@ -2,7 +2,7 @@
 # small_program-shoping商城微信小程序  
 
 
-![Alt Text](https://www.bilibili.com/video/BV1yL411A74E/)     
+![Alt mp4](https://www.bilibili.com/video/BV1yL411A74E/)     
           
 
 一：参考地址  
