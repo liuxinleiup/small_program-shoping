@@ -2,7 +2,7 @@
 # small_program-shoping商城微信小程序  
 
 
-<iframe height=498 width=510 src="https://www.bilibili.com/video/BV1yL411A74E/">   
+<iframe height=498 width=510 src="https://www.bilibili.com/video/BV1yL411A74E/" frameborder=0 allowfullscreen></iframe>     
           
 
 一：参考地址  
